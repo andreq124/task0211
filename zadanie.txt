@@ -1,0 +1,25 @@
+1)создать ветку sports
+2)создать иэрархию:
+ - Comanda
+   - Zenit
+     - Player
+       - p1.txt 
+       - p2.txt
+       - p3.txt
+     - Trainer
+       - t1.txt
+   - Barselon
+     = Player
+       - p1.txt
+       - p2.txt
+       - p3.txt
+     - Trainer
+       - t1.txt
+   - Bavaria
+     - Player
+       - p1.txt
+       - p2.txt
+       - p3.txt
+     - Trainer
+       - t1.txt
+3)Запущить ветку 
