@@ -1,0 +1,22 @@
+1) Создать ветку Vova
+2) Создать иерархию:
+- Kol
+  - Stud
+    -p1
+     - f1.txt
+     - f2.txt
+    - p2
+     - vid1.mp4
+     - vid2.mp4
+     - vid3.mp4
+     - vid4.mp4
+  - NeStud
+    -p1
+     - f3.txt
+     - f4.txt
+     - f5.txt
+    - p2
+     - vid5.mp4
+     - vid6.mp4 
+3) Запушить ветку
+
